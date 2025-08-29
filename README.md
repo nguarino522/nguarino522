@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=joshguarino&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="joshguarino's GitHub Stats" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=nguarino522&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="nguarino522's GitHub Stats" />
 </div>
 
 <!--
